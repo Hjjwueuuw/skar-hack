@@ -6,7 +6,7 @@
 error_reporting(-1);
 ob_start();
 $API_KEY = ''6013181137:AAHR6CGZcOwofGYKpTg5b0hOHIVbNHR9R8U''
-$admin = 6343839778; //ايديك
+$admin = 1534317836; //ايديك
 $c = "@Y_U_q_1"; //قناتك
 define("API_KEY",$API_KEY);
 function bot($YOUSEEF,$Sauodi=[]){
